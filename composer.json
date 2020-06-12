@@ -1,0 +1,40 @@
+{
+    "name": "andredebrito/php-mvc-cep",
+    "description": "Aplicação PHP MVC para consulta de CEP utilizando o componente https://github.com/andredebrito/phpviacep",
+    "keywords": [
+        "VIACEP",
+        "Consulta CEP",
+        "PHP",
+        "MVC"
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre de Brito",
+            "email": "andredebrito1990@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Boot/Config.php",
+            "source/Boot/Helpers.php"   
+        ]
+    },
+    "require": {
+        "php": "^7.2",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "andredebrito/phpviacep": "1.0.5",
+        "league/plates": "v4.0.0-alpha",
+        "coffeecode/optimizer": "^2.0",
+        "coffeecode/router": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
