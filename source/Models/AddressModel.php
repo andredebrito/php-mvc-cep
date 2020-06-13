@@ -25,9 +25,9 @@ class AddressModel extends PhpViaCep {
      * @return int
      */
     public function count(): int {
-        $count  = 0;
-        if(is_array($this->getResponse()) || is_object($this->getResponse())){
-            foreach ($this->getResponse() as $result){
+        $count = 0;
+        if (is_array($this->getResponse()) || is_object($this->getResponse())) {
+            foreach ($this->getResponse() as $result) {
                 $count++;
             }
         }
