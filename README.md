@@ -1,5 +1,5 @@
 # PHP MVC CEP
-Aplicação PHP em MVC para consulta de endereço utilizando a biblioteca [phpviacep](https://github.com/andredebrito/phpviacep "phpviacep").
+Aplicação PHP em MVC para consulta de endereço que implementa minha biblioteca [phpviacep](https://github.com/andredebrito/phpviacep "phpviacep").
 
 ## Bibliotecas e tecnologias utilizadas
 - PHP 7.2
