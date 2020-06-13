@@ -9,6 +9,7 @@ Aplicação PHP em MVC para consulta de endereço que implementa minha bibliotec
 - [coffecode/router](https://github.com/robsonvleite/router "coffecode/router")
 - [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 - [JQUERY](https://jquery.com/)
+- [JQUERY FORM PLUGIN](https://plugins.jquery.com/form/)
 
 
 ### Link do projeto
