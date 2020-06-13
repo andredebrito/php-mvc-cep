@@ -5,7 +5,7 @@ namespace Source\Models;
 /**
  * Class EstateModel [MODEL]
  *
- * @author André de Brito <andrebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Models
  */
 class EstateModel {

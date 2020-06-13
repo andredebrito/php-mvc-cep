@@ -7,8 +7,8 @@ use Source\Controllers\Controller;
 /**
  * Class ErrorController [CONTROLLER]
  *
- * @author André de Brito <andrebrito1990@gmail.com>
- * @package Source\Controllers\App
+ * @author André de Brito <https://github.com/andredebrito>
+ * @package Source\Controllers
  */
 class ErrorController extends Controller {
 

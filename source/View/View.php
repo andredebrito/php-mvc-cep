@@ -7,8 +7,8 @@ use League\Plates\Engine;
 /**
  * Class View
  *
- * @author André de Brito <andredebrito1990@gmail.com>
- * @package Source\Core
+ * @author André de Brito <https://github.com/andredebrito>
+ * @package Source\View
  */
 class View {
 

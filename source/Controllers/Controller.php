@@ -8,7 +8,7 @@ use Source\View\View;
 /**
  * Class Controller
  *
- * @author André de Brito <andrebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Controllers
  */
 abstract class Controller {

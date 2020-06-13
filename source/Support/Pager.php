@@ -8,7 +8,7 @@ use CoffeeCode\Paginator\Paginator;
 /**
  * Class Pager
  *
- * @author André de Brito <andredebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Support
  */
 class Pager extends Paginator

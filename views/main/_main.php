@@ -15,7 +15,7 @@
     </head>
 
 
-    <body id="myPage" data-spy="scroll" data-target=".sidenav">          
+    <body id="myPage">          
 
         <main class="main-content d-flex flex-column justify-content-center align-content-center align-items-center">   
             <?= $v->section("content") ?>

@@ -7,7 +7,7 @@ use AndreDeBrito\PHPViaCep\PhpViaCep;
 /**
  * Class CepModel [MODEL]
  *
- * @author André de Brito <andrebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Models
  */
 class AddressModel extends PhpViaCep {

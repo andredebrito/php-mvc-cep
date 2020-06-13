@@ -9,7 +9,7 @@ use Source\Models\AddressModel;
 /**
  * Class HomeController [CONTROLLER]
  *
- * @author André de Brito <andrebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Controllers
  */
 class HomeController extends Controller {

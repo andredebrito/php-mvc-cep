@@ -7,7 +7,7 @@ use CoffeeCode\Optimizer\Optimizer;
 /**
  * Class Seo
  *
- * @author André de Brito <andredebrito1990@gmail.com>
+ * @author André de Brito <https://github.com/andredebrito>
  * @package Source\Support
  */
 class Seo {
