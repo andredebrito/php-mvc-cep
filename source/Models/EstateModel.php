@@ -14,7 +14,7 @@ class EstateModel {
     private $estates;
 
     /**
-     * EstateMode constructor
+     * EstateModel constructor
      */
     public function __construct() {
         $path = __DIR__ . "/../../files/estates.json";
