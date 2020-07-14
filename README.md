@@ -1,7 +1,7 @@
 # PHP MVC CEP
 
-[![Build](https://img.shields.io/scrutinizer/build/g/andredebrito/php-mvc-cep.svg?style=flat-square)](https://scrutinizer-ci.com/g/andredebrito/php-rest-api)
-[![Quality Score](https://img.shields.io/scrutinizer/quality/g/andredebrito/php-mvc-cep.svg?style=flat-square)](https://scrutinizer-ci.com/g/andredebrito/php-rest-api)
+[![Build](https://img.shields.io/scrutinizer/build/g/andredebrito/php-mvc-cep.svg?style=flat-square)](https://scrutinizer-ci.com/g/andredebrito/php-mvc-cep)
+[![Quality Score](https://img.shields.io/scrutinizer/quality/g/andredebrito/php-mvc-cep.svg?style=flat-square)](https://scrutinizer-ci.com/g/andredebrito/php-mvc-cep)
 
 Aplicação PHP em MVC para consulta de endereço que implementa minha biblioteca [phpviacep](https://github.com/andredebrito/phpviacep "phpviacep").
 
